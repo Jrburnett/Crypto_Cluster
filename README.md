@@ -3,7 +3,7 @@ The purpose behind the project was to test my financial python programming as we
 
 This project was completed using jupyter lab and the following libraries.
 
-## Libraries Used
+## Libraries
 The libraries used for this challenge are:
 - pandas 
 - hvplot 
@@ -13,7 +13,7 @@ The libraries used for this challenge are:
 - StandardScaler
 
 
-## Steps Taken
+## Steps
 1. I started the challenge by importing our csv data, we then generated the summary statistics, followed by plotting our dataframe to get a better understanding of the data.
 2. I then prepared the data using StandardScaler and cleaned it using pandas
 3. After cleaning the data I created an elbow curve in order to find the optimal value for our model.
