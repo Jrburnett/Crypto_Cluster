@@ -1,6 +1,17 @@
 # Crypto_Cluster
 Clustering Crypto by performance in different time periods
-The libraries used for this challenge are pandas, hvplot, pathlib, PCA, KMeans, and StandardScaler.
+
+## Libraries Used
+The libraries used for this challenge are:
+pandas 
+hvplot 
+pathlib
+PCA
+KMeans
+StandardScaler
+
+
+## Steps Taken
 I started the challenge by importing our csv data, we then generated the summary statistics, followed by plotting our dataframe to get a better understanding of the data.
 I then prepared the data using StandardScaler and cleaned it using pandas
 After cleaning the data I created an elbow curve in order to find the optimal value for our model.
